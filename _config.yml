@@ -13,14 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: ECE 2260
-tagline: Course webpage for ECE 2260 at Weber State University
-description: Course webpage for ECE 2260 at Weber State University
+title: ECE 3210
+tagline: Course webpage for ECE 3210 at Weber State University
+description: Course webpage for ECE 3210 at Weber State University
 author: Erc Gibbons
-course_documents_url: &course_docs_url https://github.com/wsu-ece2260/course-documents
+course_documents_url: &course_docs_url https://github.com/wsu-ece3210/course-documents
+jupyter_hub_url: &jupyter_hub_url https://quick.users.weber.edu
 # baseurl: "/ece2260" # the subpath of your site, e.g. /blog
 # url: "https://kevinl.info" # the base hostname & protocol for your site, e.g. http://example.com
-exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
+exclude: [ "Gemfile", "Gemfile.lock", "LICENSE" ]
 
 # Theme settings
 # remote_theme: just-the-docs/just-the-docs@v0.10.1
@@ -47,8 +48,7 @@ collections:
   staffers:
   modules:
   schedules:
-  announcements:
-# Default layouts for each collection type
+  announcements: # Default layouts for each collection type
 defaults:
   - scope:
       path: ""

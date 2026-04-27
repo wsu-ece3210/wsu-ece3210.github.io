@@ -13,35 +13,36 @@ nav_order: 1
 
 | Session | Day | Time | Location |
 |---------|-----|------|----------|
-| Lecture | TH | 9:00AM-10:15AM | NB 236 |
+| Lecture | TH | 9:00AM-10:15AM | NB 101 |
 | Lab | W | 1:30PM-4:30PM | NB 112 |
 
 
 # Course description 
 
-Fundamental electric-circuit techniques including: time domain transient responses for 1st and 2nd order circuits, Laplace transforms, Fourier series, and filters.  Lecture and lab combination.
+Topics related to analyzing linear time-invariant continuous and discrete systems and signal transformations, convolution, frequency spectra, Laplace transforms, Z transforms, and fast Fourier transforms. This course is a combination of lectures and laboratory exercises. Laboratory activities include computer simulation, analysis, and numerical modeling of signals and systems.
 
 
 # Learning outcomes
 
 The student will:
-- A knowledge of transient responses for 1st and 2nd order circuits.
-- An understanding of how Laplace transforms apply to circuits.
-- An understanding of how Fourier series and transforms apply to signals.
-- An ability to construct simple passive filters.
+- Analyze LTI system responses in the time domain
+- Represent and manipulate continuous-time signals in the frequency domain
+- Represent and manipulate discrete-time signals in the frequency domain
+- Design, build, and analyze linear and time-invariant systems in hardware
+- Perform signal processing tasks in software
 
 
 
 # Textbook 
 
-Electric Circuits, 10th Edition, by James W. Nilsson and Susan Riedel, [any edition will work]
+Lathi, B. P., \& Green, R. (2023). Signal processing and linear systems (2nd ed.). New York, NY: Oxford University Press.
 
 
-NOTE:  The lectures will follow this text \emph{very} closely.  I strongly advise you to read the book as we go through the course.  Assignments will not be based on problems on from the book, so if you can find a 1\textsuperscript{st} edition of the book, you can save some money.
+NOTE:  The lectures will follow this text very closely.  I strongly advise you to read the book as we go through the course.  Assignments will not be based on problems on from the book, so if you can find a 1st edition of the book, you can save some money.
 
 # Quizzes 
 
-There will be weekly quizzes based on the homework.  These will be given at the beginning of the lab or lecture session.  The quizzes will be closed book and closed notes.  There are no makeup quizzes.  The lowest two quiz grades will be dropped.
+There will be weekly quizzes.  These problems will be directly from the homework or will be similar to homework problems.  These will be given at the beginning of the lab or lecture session.  The quizzes will be closed book and closed notes.  There are no makeup quizzes.  The lowest two quiz grades will be dropped.
 
 
 
@@ -49,21 +50,21 @@ There will be weekly quizzes based on the homework.  These will be given at the 
 
 You will have weekly homework assignments based on the material covered in class.  These will be collected immediately before the quiz at the beginning of the lab or lecture session.  You are encouraged to work together on the homework, but each student must turn in their own work.   Homework must be turned in on time.  Late homework will not be accepted.  Homework must be done in a neat and organized manner.  You must work on green engineering paper.  You will be graded on completion.  The lowest two homework grades will be dropped.
 
+Homework solutions will be posted after the homework is due.  You are encouraged to review the solutions to make sure that you understand the material prior to the exams.
+
 
 
 # Laboratory assignments 
 
-Laboratory assignments will be done individually if there is insufficient lab equipment, in which case the hardware portion may be done in pairs.  Each lab will, generally, require a submitted lab report and associated code written for the lab.  The lab report must be completed using the provided \LaTeX\ template.
+Labs are a mixture of hardware and software exercises designed to reinforce the theoretical material covered in class.Laboratory assignments will be completed individually; if there is insufficient lab equipment, the hardware portion may be done in pairs.  Each lab consists of a Jupyter notebook with instructions. You will complete the indicated cells and submit the notebook for grading. Labs are completed on a JupyterHub server using an on-campus computer, so you will not need to set up your own Python environment. You will need a reliable internet connection and a web browser to access the JupyterHub server from your personal machine. If you are off-campus, you will need to connect through the WSU VPN.
 
-Most labs will have a programming component.  You must be proficient in numerical Python (NumPy, SciPy, Matplotlib) at the level of ECE 1400.  You are welcome to use lab computers for your programming.  Furthermore, you may use your personal machines if they are configured so that you can do the assignments.  All unit tests will use Python 3.12.  We will use GitHub for code submission, so ensure you have a GitHub account.  This course will require some level of Python programming, but it will be at a relatively basic level (e.g., making plots, solving equations numerically, etc.).  The programming intensity will scale with the progress of ECE 1400 as it is a corequisite.  
-
-The lab due dates and times will generally be the Friday the week indicated on the schedule.
+Lab due dates will generally be the Friday following the week indicated on the schedule.
 
 
 
 # Late work policy 
 
-Late work will not be accepted after the due date.  Once the GitHub repository is closed, you will not be able to submit your work.  Similarly, once the Canvas assignment is closed, you will not be able to submit your lab reports.
+Late work will not be accepted after the due date.  
 
 
 
@@ -88,16 +89,16 @@ Letter grades are assigned according to the scale below. These are the maximum c
 
 | Letter | Percentage |
 |--------|------------|
-| A | 93% |
-| A- | 90% |
-| B+ | 86% |
-| B | 83% |
-| B- | 80% |
-| C+ | 76% |
-| C | 73% |
-| C- | 70% |
-| D+ | 66% |
-| D | 63% |
+| A | 90% |
+| A- | 86% |
+| B+ | 83% |
+| B | 80% |
+| B- | 76% |
+| C+ | 73% |
+| C | 70% |
+| C- | 66% |
+| D+ | 63% |
+| D | 60% |
 
 
 # Campus closure 

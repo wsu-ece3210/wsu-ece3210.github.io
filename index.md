@@ -4,19 +4,26 @@ layout: home
 nav_exclude: true
 ---
 
-# ECE 2260 Circuits and Signals
+# Course description 
 
-Fundamental electric-circuit techniques including: time domain transient responses for 1st and 2nd order circuits, Laplace transforms, Fourier series, and filters.
-Lecture and lab combination.
+# ECE 3210 Signals and Systems
 
-## Learning objectives
+Topics related to analyzing linear time-invariant continuous and discrete systems and signal transformations, convolution, frequency spectra, Laplace transforms, Z transforms, and fast Fourier transforms. This course is a combination of lectures and laboratory exercises. Laboratory activities include computer simulation, analysis, and numerical modeling of signals and systems.
 
-* A knowledge of transient responses for 1st and 2nd order circuits.
-* An understanding of how Laplace transforms apply to circuits.
-* An understanding of how Fourier series and transforms apply to signals.
-* An ability to construct simple passive filters.
 
-<a href="{{ '/office_hours' | relative_url }}" class="btn btn-purple">Office Hours</a> <a href="{{ site.course_documents_url }}" class="btn btn-purple">Course Documents</a>
+# Learning outcomes
+
+The student will:
+- Analyze LTI system responses in the time domain
+- Represent and manipulate continuous-time signals in the frequency domain
+- Represent and manipulate discrete-time signals in the frequency domain
+- Design, build, and analyze linear and time-invariant systems in hardware
+- Perform signal processing tasks in software
+
+<a href="{{ '/office_hours' | relative_url }}" class="btn btn-purple">Office Hours</a>
+<a href="{{ site.course_documents_url }}" class="btn btn-purple">Course Documents</a>
+<a href="{{ site.jupyter_hub_url }}" class="btn btn-purple">Lab JupyterHub Server</a>
+
 
 <!-- 
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.

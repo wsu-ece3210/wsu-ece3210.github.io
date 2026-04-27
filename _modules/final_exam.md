@@ -3,46 +3,56 @@ title: Final Exam Material
 ---
 
 <div class="module-item">
-  <div>3/16</div>
+  <div>10/26</div>
   <div>
-    System response to periodic inputs (16.4-16.8)<br>
-    Fourier transform (17.1-17.3)
+    Realization with op-amps (6.6)<br>
+    Review for Exam 2
   </div>
   <div><span class="label label-purple">HW10</span></div>
-  <div><span class="label label-green">LAB08: CONVOLUTION</span></div>
+  <div><span class="label label-green">LAB08: CARDIAC SIGNAL PROCESSING</span></div>
 </div>
 <div class="module-item">
-  <div>3/23</div>
+  <div>11/2</div>
   <div>
-    Review for Exam 2<br>
-    Properties of the Fourier transform (17.5-17.8)<br><span class="label label-red">mt02</span>
+    System response and Bode plots (7.1-7.2)<br>
+    Butterworth and Chebyshev (7.5-7.7)<br><span class="label label-red">mt02</span>
   </div>
   <div><span class="label label-purple">HW11</span></div>
-  <div><span class="label label-green">LAB09: RECTIFIER</span></div>
+  <div><span class="label label-green">LAB09: SYSTEM REALIZATION AND FREQUENCY RESPONSE</span></div>
 </div>
 <div class="module-item">
-  <div>3/30</div>
+  <div>11/9</div>
   <div>
-    1st order filters (14.1-14.3)<br>
-    2nd order filters (14.4-14.5)
+    Discrete-time signals (8.2-8.4)<br>
+    Discrete-time systems, zero-input (9.1-9.4)
   </div>
   <div><span class="label label-purple">HW12</span></div>
-  <div><span class="label label-green">LAB10: COMPLEX FOURIER SERIES</span></div>
+  <div><span class="label label-green">LAB09: SYSTEM REALIZATION AND FREQUENCY RESPONSE</span></div>
 </div>
 <div class="module-item">
-  <div>4/6</div>
+  <div>11/16</div>
   <div>
-    Active filters I (15.1-15.2)<br>
-    Review for Final Exam
+    Discrete-time systems, zero-state (9.5-9.6)<br>
+    DT signal processing with the DTFT (10.1-10.4, 10.6)
   </div>
   <div><span class="label label-purple">HW13</span></div>
-  <div><span class="label label-green">LAB11: FILTER DESIGN</span></div>
+  <div><span class="label label-green">LAB10: FILTER DESIGN</span></div>
 </div>
 <div class="module-item">
-  <div>4/13</div>
+  <div>11/23</div>
   <div>
-    Review for Final Exam<br>
-    Review for Final Exam
+    Z-transform (10.7, 11.1-11.2)<br>
+    No lecture---Thanksgiving
   </div>
   <div><span class="label label-purple">HW14</span></div>
+  <div><span class="label label-green"></span></div>
+</div>
+<div class="module-item">
+  <div>11/30</div>
+  <div>
+    Z-transform solution (11.3-11.4)<br>
+    Final review
+  </div>
+  <div><span class="label label-purple">HW14</span></div>
+  <div><span class="label label-green"></span></div>
 </div>

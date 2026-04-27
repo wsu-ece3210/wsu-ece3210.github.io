@@ -3,46 +3,47 @@ title: Midterm 1 Material
 ---
 
 <div class="module-item">
-  <div>1/05</div>
+  <div>8/24</div>
   <div>
-    Review DC analysis (1.1-4.13)<br>
-    Review AC analysis (9.1-10.6)
+    Introduction to signals (1.1-1.6)<br>
+    Systems, zero input response (1.6-1.8, 2.1-2.2)
   </div>
   <div><span class="label label-purple">HW01</span></div>
+  <div><span class="label label-green">LAB01: LAB BASICS</span></div>
 </div>
 <div class="module-item">
-  <div>1/12</div>
+  <div>8/31</div>
   <div>
-    Review time-domain L and C<br>
-    RL/RC natural response (7.1-7.2)
+    Impulse response, zero state response, convolution (2.3-2.4)<br>
+    Graphical convolution, system stability, and behavior (2.4-2.6)
   </div>
   <div><span class="label label-purple">HW02</span></div>
-  <div><span class="label label-green">LAB01: AC OPAMPS</span></div>
+  <div><span class="label label-green">LAB02: IMPULSE RESPONSE</span></div>
 </div>
 <div class="module-item">
-  <div>1/19</div>
+  <div>9/7</div>
   <div>
-    RL/RC step response (7.3-7.4)<br>
-    1st order transients (7.4-7.6)
+    Labor Day---no class<br>
+    Orthogonal signals and correlation (3.1-3.3)
   </div>
   <div><span class="label label-purple">HW03</span></div>
-  <div><span class="label label-green">LAB01: AC OPAMPS</span></div>
+  <div><span class="label label-green">LAB03: CONVOLUTION</span></div>
 </div>
 <div class="module-item">
-  <div>1/26</div>
+  <div>9/14</div>
   <div>
-    Parallel RLC natural responses (8.1)<br>
-    Parallel RLC step response (8.2-8.3)
+    Fourier series (3.4-3.7)<br>
+    Fourier transform (4.1-4.2)
   </div>
   <div><span class="label label-purple">HW04</span></div>
-  <div><span class="label label-green">LAB02: NATURAL RESPONSE</span></div>
+  <div><span class="label label-green">LAB04: FOURIER SERIES AND THD</span></div>
 </div>
 <div class="module-item">
-  <div>2/2</div>
+  <div>9/21</div>
   <div>
-    Series RLC response (8.4)<br>
-    Laplace transform (12.1-12.4)
+    Fourier transform properties (4.3)<br>
+    Signal transmission through a system (4.4-4.6)
   </div>
   <div><span class="label label-purple">HW05</span></div>
-  <div><span class="label label-green">LAB03: SEQUENTIAL SWITCHING</span></div>
+  <div><span class="label label-green">LAB05: LTI RESPONSE TO PERIODIC SIGNAL</span></div>
 </div>
