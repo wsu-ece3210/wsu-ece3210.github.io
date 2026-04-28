@@ -4,8 +4,6 @@ layout: home
 nav_exclude: true
 ---
 
-# Course description 
-
 # ECE 3210 Signals and Systems
 
 Topics related to analyzing linear time-invariant continuous and discrete systems and signal transformations, convolution, frequency spectra, Laplace transforms, Z transforms, and fast Fourier transforms. This course is a combination of lectures and laboratory exercises. Laboratory activities include computer simulation, analysis, and numerical modeling of signals and systems.
