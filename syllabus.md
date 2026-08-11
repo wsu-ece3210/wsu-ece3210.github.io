@@ -8,7 +8,6 @@ nav_order: 1
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %} {% for staffer in instructors %} {{ staffer }} {% endfor %}
 
-
 # Meeting Times
 
 | Session | Day | Time | Location |
@@ -16,8 +15,7 @@ nav_order: 1
 | Lecture | TH | 9:00AM-10:15AM | NB 101 |
 | Lab | W | 1:30PM-4:30PM | NB 112 |
 
-
-# Course description 
+# Course description
 
 Topics related to analyzing linear time-invariant continuous and discrete systems and signal transformations, convolution, frequency spectra, Laplace transforms, Z transforms, and fast Fourier transforms. This course is a combination of lectures and laboratory exercises. Laboratory activities include computer simulation, analysis, and numerical modeling of signals and systems.
 
@@ -31,44 +29,38 @@ The student will:
 - Design, build, and analyze linear and time-invariant systems in hardware
 - Perform signal processing tasks in software
 
+# Textbook
 
-
-# Textbook 
-
-Lathi, B. P., \& Green, R. (2023). Signal processing and linear systems (2nd ed.). New York, NY: Oxford University Press.
-
+Lathi, B. P. and Green, R. (2023). Signal processing and linear systems (2nd ed.). New York, NY: Oxford University Press.
 
 NOTE:  The lectures will follow this text very closely.  I strongly advise you to read the book as we go through the course.  Assignments will not be based on problems on from the book, so if you can find a 1st edition of the book, you can save some money.
 
-# Quizzes 
 
-There will be weekly quizzes.  These problems will be directly from the homework or will be similar to homework problems.  These will be given at the beginning of the lab or lecture session.  The quizzes will be closed book and closed notes.  There are no makeup quizzes.  The lowest two quiz grades will be dropped.
+# Quizzes
+
+There will be weekly quizzes.  These problems will be similar to homework problems.  These will be given at the beginning of the lab or lecture session.  You may bring one page (single-sided) of notes to the quizzes.
 
 
-
-# Assignments 
+# Assignments
 
 You will have weekly homework assignments based on the material covered in class.  These will be collected immediately before the quiz at the beginning of the lab or lecture session.  You are encouraged to work together on the homework, but each student must turn in their own work.   Homework must be turned in on time.  Late homework will not be accepted.  Homework must be done in a neat and organized manner.  You must work on green engineering paper.  You will be graded on completion.  The lowest two homework grades will be dropped.
 
 Homework solutions will be posted after the homework is due.  You are encouraged to review the solutions to make sure that you understand the material prior to the exams.
 
 
-
-# Laboratory assignments 
+# Laboratory assignments
 
 Labs are a mixture of hardware and software exercises designed to reinforce the theoretical material covered in class.Laboratory assignments will be completed individually; if there is insufficient lab equipment, the hardware portion may be done in pairs.  Each lab consists of a Jupyter notebook with instructions. You will complete the indicated cells and submit the notebook for grading. Labs are completed on a JupyterHub server using an on-campus computer, so you will not need to set up your own Python environment. You will need a reliable internet connection and a web browser to access the JupyterHub server from your personal machine. If you are off-campus, you will need to connect through the WSU VPN.
 
 Lab due dates will generally be the Friday following the week indicated on the schedule.
 
 
+# Late work policy
 
-# Late work policy 
-
-Late work will not be accepted after the due date.  
-
+Late work will not be accepted after the due date.
 
 
-# Exams 
+# Exams
 
 There will be two midterm examinations during the semester.  There will also be a comprehensive final examination.  The objective of the examinations will be to test your knowledge of fundamentals and your ability to apply the concepts learned in the class in situations you may not have encountered before.  You may bring one sheet of formulas for the first exam, two sheets of formulas for the second exam, and three sheets of formulas to the final exam.
 
@@ -85,7 +77,7 @@ As shown below, grades are based on the weighted average of the exams, homework,
 | midterms | 20% |
 | final | 25% |
 
-Letter grades are assigned according to the scale below. These are the maximum cutoffs for each letter.  As an instructor, I reserve the right to lower the percentage cutoffs at the end of the semester as appropriate.
+Letter grades are assigned according to the scale below. These are the maximum cutoffs for each letter. As an instructor, I reserve the right to lower the percentage cutoffs at the end of the semester as appropriate.
 
 | Letter | Percentage |
 |--------|------------|
@@ -100,53 +92,44 @@ Letter grades are assigned according to the scale below. These are the maximum c
 | D+ | 63% |
 | D | 60% |
 
-
-# Campus closure 
+# Campus closure
 
 If the class needs to be held virtually due to campus closure, sickness, or any other appropriate reason, you will receive a notification from your instructor via Canvas. Remember that attendance is just as important virtually as in the face-to-face option. During video conferencing, be present, avoid multitasking, and wait for your turn to speak and/or contribute to the class discussion. Be courteous and respectful of your classmates. As stated in the class recording policy, you may not record any segments and/or the full class unless you have authorization from the instructor. If you do not have the technology necessary for video conferencing, contact your instructor as soon as possible. This policy applies also to virtual office hours.
 
 
-
-# Disability services 
+# Disability services
 
 If you require accommodations or services due to a disability, please contact Disability Services (DS) in room 181 of the Student Services Center (Ogden campus) or room 262 Building D2 (Davis Campus). Disability Services can arrange to provide course materials (including this syllabus) in alternative formats upon request.
 
 
-
-# Professionalism and respect 
+# Professionalism and respect
 
 The sense of human dignity and belonging of all members of the Weber State community is a necessary part of a healthy learning environment. Therefore, you should practice civil deportment, and avoid treating others in a manner that is demeaning or derisive in any respect. Diverse viewpoints and opinions are welcome in this class, and we will practice the mutual deference so important in the world of work when expressing them. Thus, while I encourage you to share your opinions, you will be expected to do so in a manner that is respectful toward others.
 
 
-
-# Recording 
+# Recording
 
 The university prohibits students from recording class lectures unless the faculty member grants explicit permission (PPM 6-22.6.6). Any lectures recorded and posted on Canvas or shared to your Weber State University student email are for the exclusive use of students enrolled in the class and may not be shared without previous authorization. Violations will be referred to the Dean of Students for adjudication under the student code (PPM 6-22).
 
 
-
-# Academic integrity 
+# Academic integrity
 
 As part of the student code (PPM 6-22), you are expected to be academically honest and ethical. Academic dishonesty includes cheating; plagiarizing; colluding with others to be dishonest; falsifying information; giving, selling, or receiving unauthorized course or test information; using a tool or other aid not explicitly permitted by your instructor such as generative AI (e.g. ChatGPT) to complete assignments or exams; or infringing on others' copyrights and intellectual property. Academic dishonesty can have serious consequences in the class and/or at WSU. Be sure, if you borrow an idea, to express it in language entirely your own and let the reader know the idea's source in a citation note.
 
 For software submissions, I will routinely run your code through a plagiarism detection system.  If you are caught cheating, you will receive a zero for the assignment and may be reported to the Dean of Students.  A second infraction will result in a failing grade for the course.
 
 
-
-# Core beliefs and challenging subject matter 
+# Core beliefs and challenging subject matter
 
 Faculty members teach in line with the best standards of their discipline and choose materials appropriate to help the class master expected course outcomes. A student may disagree with course content, but unless the content conflicts with a student's core beliefs, students are expected to engage professionally, as described above. If after reading the syllabus and class program, you expect there will be a conflict with your core beliefs, you should consider withdrawing from the class before the last day to drop classes without penalty. If you find this solution unworkable, you may request a resolution from the instructor, in writing with a copy to the department chair, explaining what burden the class requirement would place on your beliefs. Students who are not satisfied with the outcome may seek assistance through the Office of Equal Opportunity.
 
 
-
-# Student responsibilities 
+# Student responsibilities
 
 As a student at Weber State University, you are expected to act responsibly and appropriately as you attend a public institution of higher education. When you enroll as a student at WSU, you agree to abide by the standards of appropriate and responsible behavior outlined in the student code (PPM 6-22). This applies to your behavior as an individual when participating in group settings on campus and if you represent Weber State University at an off-campus event. Choosing to ignore these important student responsibilities could result in university disciplinary actions.
 
 
-
-# Harassment, discrimination, and sexual misconduct 
+# Harassment, discrimination, and sexual misconduct
 
 Weber State University is committed to providing an environment free from harassment and other forms of discrimination based upon race, color, national origin, pregnancy, and pregnancy-related conditions such as childbirth, false pregnancy, miscarriage, abortion, or related conditions, (including recovery), genetics, disability (see PPM 3-34), religion, sex, sexual orientation, gender identity/expression, veteran, active military status, age (over 40 in employment discrimination), and other classifications protected by law. If you have questions regarding the university's policy against discrimination and harassment, or if you have questions about reporting discrimination or harassment, you may contact the university's Office of Equal Opportunity (OEO) by calling 801-626-6240 or visit the OEO website.
-
 
