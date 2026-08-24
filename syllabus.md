@@ -45,8 +45,6 @@ There will be weekly quizzes.  These problems will be similar to homework proble
 
 You will have weekly homework assignments based on the material covered in class.  These will be collected immediately before the quiz at the beginning of the lab or lecture session.  You are encouraged to work together on the homework, but each student must turn in their own work.   Homework must be turned in on time.  Late homework will not be accepted.  Homework must be done in a neat and organized manner.  You must work on green engineering paper.  You will be graded on completion.  The lowest two homework grades will be dropped.
 
-Homework solutions will be posted after the homework is due.  You are encouraged to review the solutions to make sure that you understand the material prior to the exams.
-
 
 # Laboratory assignments
 

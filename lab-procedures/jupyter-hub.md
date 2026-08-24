@@ -21,19 +21,19 @@ You will be given a JupyterHub username in the format `first_name.last_name.eceX
 The course JupyterHub server is hosted at:
 
 ```text
-https://quick.users.weber.edu
+https://quick26.users.weber.edu
 ```
 
 ## Logging in for the first time
 
-1. Open your browser and go to `https://quick.users.weber.edu`.
+1. Open your browser and go to `https://quick26.users.weber.edu`.
 2. Enter the username provided by the instructor.
 3. The first time you log in, set your password when prompted.
 4. After your password is set, log in to enter JupyterLab.
 
 If you forget your password or cannot log in, contact the instructor. Do not create a second account and do not attempt to guess a different username.
 
-<div style="text-align: center;"><img src="/assets/images/lab_images/jupyter_hub_images/jupyter_hub_login.png" alt="JupyterHub login page at quick.users.weber.edu showing the username field and first-time password setup prompt." style="width: 100%;"></div>
+<div style="text-align: center;"><img src="/assets/images/lab_images/jupyter_hub_images/jupyter_hub_login.png" alt="JupyterHub login page at quick26.users.weber.edu showing the username field and first-time password setup prompt." style="width: 100%;"></div>
 
 
 ## What you will see in JupyterLab
