@@ -18,10 +18,10 @@ tagline: Course webpage for ECE 3210 at Weber State University
 description: Course webpage for ECE 3210 at Weber State University
 author: Erc Gibbons
 course_documents_url: &course_docs_url https://github.com/wsu-ece3210/course-documents
-jupyter_hub_url: &jupyter_hub_url https://quick.users.weber.edu
+jupyter_hub_url: &jupyter_hub_url http://quick26.users.weber.edu
 # baseurl: "/ece2260" # the subpath of your site, e.g. /blog
 # url: "https://kevinl.info" # the base hostname & protocol for your site, e.g. http://example.com
-exclude: [ "Gemfile", "Gemfile.lock", "LICENSE" ]
+exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
 # remote_theme: just-the-docs/just-the-docs@v0.10.1
